@@ -1,5 +1,5 @@
-# Hi👋, I'm Tareq Khaleghi!
-🔭 I’m currently working on Backend API's<br>🌱 I’m currently learning Django Rest Framework
+# Hi 👋, I'm Tareq Khaleghi
+🔭 I’m currently working on Backend <br>🌱 I’m currently learning Django and Django Rest Framework
 
 
 ## 🌐 Socials:
