@@ -1,4 +1,4 @@
-## Hi👋, I'm Tareq Khaleghi!
+# Hi👋, I'm Tareq Khaleghi!
 🔭 I’m currently working on Backend API's<br>🌱 I’m currently learning Django Rest Framework
 
 
