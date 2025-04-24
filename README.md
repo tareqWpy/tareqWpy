@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tareq Khaleghi
-🔭 I’m currently working on Backend Platform <br>🌱 I’m currently learning Django and Django Rest Framework
+🔭 I’m currently working on Backend Platform <br>🌱 I’m currently learning fastapi and sqlalchemy!
 
 
 ## 🌐 Socials:
