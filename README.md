@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taregh-khaleghi-a13599324) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taregh-khaleghi) 
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Azavax) 
 
 ## 💻 Tech Stack:
